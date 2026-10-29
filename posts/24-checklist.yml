@@ -1,0 +1,10 @@
+# Hoort bij post 88
+sjabloon: checklist
+labels: [compleet, veilig, zekerheid]
+kop: "Is jouw externe inzet *goed geregeld*?"
+punten:
+  - "Je weet wie er voor je werkt"
+  - "Je uitleners hebben een toelating"
+  - "Je zzp'ers hebben een echte opdracht"
+  - "Ze bepalen zelf hoe ze werken"
+  - "Het staat vastgelegd"

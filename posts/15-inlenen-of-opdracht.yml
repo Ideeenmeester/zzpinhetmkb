@@ -1,0 +1,10 @@
+# Hoort bij post 32
+sjabloon: vergelijking
+labels: [inlenen, zelfstandigen, DBA]
+kop: "Inlenen of een *opdracht* geven?"
+watkop: "Vraag"
+kolommen: ["Inlenen", "Opdracht"]
+rijen:
+  - {wat: "Wie stuurt aan?", a: "Jij.", b: "De zzp'er bepaalt zelf hoe."}
+  - {wat: "Wat koop je?", a: "Uren.", b: "Een resultaat."}
+  - {wat: "Wie draagt risico?", a: "Jij.", b: "De ondernemer."}

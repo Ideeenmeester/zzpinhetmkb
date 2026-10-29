@@ -1,0 +1,5 @@
+# Hoort bij post 53, 54 en 86
+sjabloon: twee-kanten
+midden: "Rechtstreeks"
+links: {titel: "Ik werk met zzp'ers", tekst: "Heb je het overzicht?", knop: "Scan je externe inzet"}
+rechts: {titel: "Ik ben zzp'er", tekst: "Zonder marge op je tarief", knop: "Meld je aan"}

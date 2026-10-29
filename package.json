@@ -1,0 +1,13 @@
+{
+  "name": "zzpinhetmkb-socials",
+  "private": true,
+  "description": "Socialmediabeelden voor zzpinhetmkb.nl, gegenereerd uit tekstbestanden",
+  "scripts": {
+    "render": "node scripts/render.js",
+    "render:een": "node scripts/render.js --alleen"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0",
+    "playwright": "^1.47.0"
+  }
+}

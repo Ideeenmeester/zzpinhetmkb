@@ -1,0 +1,10 @@
+# Hoort bij post 51. Bedrag rechts wordt berekend uit brand/brand.yml
+sjabloon: vergelijking
+labels: [extra krachten, inhuur, compleet]
+kop: "Tien zzp'ers, *twee rekensommen*"
+kicker: "1.000 uur per persoon, €75 per uur"
+watkop: ""
+kolommen: ["Via een bureau", "Rechtstreeks met zzp in het mkb"]
+rijen:
+  - {wat: "Extra kosten", a: "20% opslag", b: "Vast bedrag per maand"}
+  - {wat: "Per jaar", a: "€150.000", b: "{{jaar:10}}"}

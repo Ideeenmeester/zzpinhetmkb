@@ -1,0 +1,17 @@
+# Huisstijl zzpinhetmkb.nl. Pas hier kleuren, url of prijzen aan; alle beelden volgen vanzelf.
+naam: zzp in het mkb
+url: zzpinhetmkb.nl
+logo: brand/logo.png        # origineel logobestand, wordt nooit aangepast
+kleuren:
+  blauw: "#2646C1"
+  geel: "#F7C95C"
+  navy: "#14243E"
+  groen: "#3B7D58"
+  licht: "#F3F5F9"          # zelfde kleur als de achtergrond van het logo
+  lichtblauw: "#E6ECF8"
+prijzen:
+  per_maand: 9.99           # per bedrijf
+  per_overeenkomst: 4.95    # per lopende overeenkomst per maand
+formaten:
+  linkedin:  { breedte: 1200, hoogte: 627 }
+  instagram: { breedte: 1080, hoogte: 1350 }
