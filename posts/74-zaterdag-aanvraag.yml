@@ -1,0 +1,22 @@
+# Post 74 · wo 28 apr 2027 16:00
+nr: 74
+datum: "2027-04-28"
+tijd: "16:00"
+onderwerp: "Zaterdag begint de aanvraagperiode"
+linkedin: |
+  Zaterdag begint jouw uitzendbureau aan de belangrijkste aanvraag van het jaar. Weet jij of het klaarstaat?
+
+  Van 1 mei tot en met 30 juni vragen uitleners hun Wtta-toelating aan bij de NAU, of ontheffing van de waarborgsom. Daarvoor hebben ze onder meer een VOG, eHerkenning en een administratie op orde nodig.
+
+  Het lijkt een zaak tussen het bureau en de NAU. Maar de uitkomst bepaalt of jij vanaf 2028 nog met ze mag werken.
+
+  Bel je bureaus deze week. Hebben ze alles klaar? Wanneer dienen ze in? Laten ze het je weten zodra het rond is?
+
+  Bekijk onze website.
+sjabloon: groot-getal
+thema: "geel"
+vorm: "cirkel"
+labels: ["Wtta", "uitlenen", "inhuur"]
+kicker: "Aanvraagperiode toelating"
+kop: "Staat jouw bureau *klaar*?"
+getal: "1 mei"

@@ -1,0 +1,24 @@
+# Post 55 · vr 12 mrt 2027 10:00
+nr: 55
+datum: "2027-03-12"
+tijd: "10:00"
+onderwerp: "Alles op één plek"
+linkedin: |
+  Hoeveel zelfstandigen werken er nu voor jouw bedrijf, en wat kosten ze samen? Als je dat niet binnen een minuut weet, heb je een probleem.
+
+  Niet omdat het je niet interesseert. Omdat de informatie overal zit. Bij afdelingen, in mailboxen, op de server, in de boekhouding.
+
+  Met de handhaving op schijnzelfstandigheid en de Wtta is dat een risico geworden. Je moet kunnen laten zien met wie je werkt, op basis van welke afspraken en tegen welke kosten.
+
+  In zzp in het mkb staat dat bij elkaar. Alle zelfstandigen, alle overeenkomsten, alle afspraken. In één oogopslag zie je waar je staat.
+
+  Bekijk onze website.
+sjabloon: checklist
+thema: blauw
+labels: [compleet, zekerheid, extern]
+kop: "Alles op *één plek*"
+punten:
+  - "Alle zelfstandigen"
+  - "Alle overeenkomsten"
+  - "Alle afspraken"
+  - "Alle kosten"

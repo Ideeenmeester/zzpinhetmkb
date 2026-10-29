@@ -1,0 +1,26 @@
+# Post 30 · wo 13 jan 2027 11:00
+nr: 30
+datum: "2027-01-13"
+tijd: "11:00"
+onderwerp: "Wie draagt het risico: het bureau of jij?"
+linkedin: |
+  Gaat het mis met je inhuur, dan heeft het bureau zijn marge al binnen. Jij krijgt de rekening.
+
+  Uitlener zonder toelating vanaf 2028? Jij kunt als inlener een boete krijgen.
+
+  Loonheffing niet afgedragen? Jij kunt aansprakelijk worden gesteld.
+
+  Zzp'er blijkt in de praktijk werknemer? Jij kunt de naheffing krijgen.
+
+  Bureaus lopen ook risico, zeker. Maar het idee dat je met een bureau je risico uitbesteedt, klopt gewoon niet.
+
+  Ligt het risico toch bij jou? Neem dan ook zelf de regie. Betaal liever voor overzicht dan voor een marge.
+
+  Bekijk onze website.
+sjabloon: "vergelijking"
+thema: "blauw"
+labels: ["inhuur", "zekerheid", "Wtta"]
+kop: "Wie betaalt als het *misgaat*?"
+kolommen: ["Het bureau", "Jij"]
+watkop: "Situatie"
+rijen: [{"wat": "Uitlener zonder toelating", "a": "Heeft zijn opslag al", "b": "Kan de boete krijgen"}, {"wat": "Loonheffing niet betaald", "a": "Heeft zijn opslag al", "b": "Kan aansprakelijk zijn"}, {"wat": "Zzp'er blijkt werknemer", "a": "Heeft zijn opslag al", "b": "Kan de naheffing krijgen"}]

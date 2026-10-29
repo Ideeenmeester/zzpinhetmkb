@@ -1,0 +1,20 @@
+# Post 81 · vr 14 mei 2027 10:00
+nr: 81
+datum: "2027-05-14"
+tijd: "10:00"
+onderwerp: "De verborgen kosten van inhuur via een bureau"
+linkedin: |
+  Kijk je alleen naar het uurtarief van je bureau, dan mis je het grootste deel van de rekening.
+
+  Daar komt bij: de tijd die je kwijt bent aan raamcontracten en leveranciersbeheer. Vanaf 2028 de controles op de Wtta-toelating. De risico's die toch bij jou blijven, zoals inlenersaansprakelijkheid. En de afhankelijkheid, die je pas voelt als het bureau zijn prijzen verhoogt of wegvalt.
+
+  Tel je dat op, dan is het verschil met rechtstreeks samenwerken groter dan de opslag alleen.
+
+  Rechtstreeks werken kost ook aandacht. Maar die tijd stop je in je eigen relaties, niet in het beheren van een tussenlaag.
+
+  Bekijk onze website.
+sjabloon: doorgestreept
+thema: "groen"
+labels: ["inhuur", "compleet", "flexibele schil"]
+kop: "Rechtstreeks werken? *Dit valt weg.*"
+items: [{"titel": "Opslag per uur", "tekst": "Geen percentage op elk gewerkt uur."}, {"titel": "Leveranciersbeheer", "tekst": "Geen raamcontracten met tussenpartijen."}, {"titel": "Afhankelijkheid", "tekst": "Weg bureau is niet meer weg mensen."}]

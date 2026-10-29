@@ -1,0 +1,23 @@
+# Post 90 · ma 7 jun 2027 19:00
+nr: 90
+datum: "2027-06-07"
+tijd: "19:00"
+onderwerp: "Regel het goed. Zonder overbodige kosten."
+linkedin: |
+  Je kunt je verantwoordelijkheid niet uitbesteden. Ook niet aan een bureau.
+
+  Als inlener sta jij voor de toelating van je uitlener. Voor de manier waarop je met zelfstandigen werkt. En voor wat er misgaat.
+
+  Waarom zou je dan een tussenpartij veel geld betalen voor zekerheid die er niet is?
+
+  Je kunt het ook zelf goed regelen. Rechtstreeks met zelfstandigen, op basis van echte opdrachten, met overzicht en goede vastlegging. Voor €9,99 per maand en €4,95 per lopende overeenkomst. Zonder percentage op de uren.
+
+  Regel het goed. Zonder overbodige kosten. Zonder afhankelijkheid.
+
+  Bekijk onze website.
+sjabloon: statement
+thema: "blauw"
+vorm: "ring"
+labels: ["veilig", "compleet", "zelfstandigen"]
+kop: "Regel het goed.\n*Zonder overbodige kosten.*\nZonder afhankelijkheid."
+kopgrootte: {"linkedin": 58}

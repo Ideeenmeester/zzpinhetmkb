@@ -1,13 +1,24 @@
 # zzpinhetmkb-socials
 
-Socialmediabeelden voor zzpinhetmkb.nl. Je schrijft alleen de tekst; de repository maakt er automatisch een **LinkedIn-beeld (liggend, 1200×627)** en een **Instagram-beeld (staand, 1080×1350)** van, in de huisstijl en met het originele logo.
+LinkedIn-campagne van zzpinhetmkb.nl. Elk bestand in `posts/` is één complete post: de LinkedIn-tekst, de publicatiedatum en -tijd, en het beeld. De repository maakt van elk bestand automatisch een **LinkedIn-beeld (liggend, 1200×627)** in de huisstijl en met het originele logo. Instagram doet nu niet mee (aan te zetten in `brand/brand.yml`).
+
+## Vaste regels voor elke post
+
+- Opening is een sterke hook, nooit flauw beginnen.
+- Geen link, geen url, geen hashtags. Laatste regel: **Bekijk onze website.**
+- Geen AI-stijl: geen gedachtestreepjes, korte directe zinnen.
+- Elke post heeft een eigen beeld met weinig tekst.
+- Tijden schuiven per post een uur op, tussen 08:00 en 20:00.
+
+Controleer de regels met `npm run controle`; dat maakt ook `output/planning.csv`.
 
 ## Een nieuw beeld maken
 
 1. Ga naar de map `posts/` en kopieer een bestaand bestand dat lijkt op wat je wilt.
-2. Geef het een nieuwe naam, bijvoorbeeld `26-mijn-nieuwe-post.yml`.
-3. Pas de tekst aan en sla op (op GitHub: *Commit changes*).
-4. GitHub maakt de beelden binnen een paar minuten. Je vindt ze in `output/linkedin/` en `output/instagram/`, en als zip onder **Actions → Beelden maken → socials**.
+2. Geef het een nieuwe naam, bijvoorbeeld `91-mijn-nieuwe-post.yml`.
+3. Pas `linkedin` (de posttekst), `datum`, `tijd` en de beeldvelden aan en sla op (op GitHub: *Commit changes*).
+4. GitHub maakt het beeld binnen een paar minuten in `output/linkedin/`, ook als zip onder **Actions → Beelden maken → socials**.
+5. Openbare link van een beeld (voor Metricool): `https://raw.githubusercontent.com/<jouwnaam>/zzpinhetmkb-socials/main/output/linkedin/<bestandsnaam>.png`
 
 ### Schrijftips
 

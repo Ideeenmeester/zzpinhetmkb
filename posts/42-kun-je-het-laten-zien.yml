@@ -1,0 +1,25 @@
+# Post 42 · wo 10 feb 2027 10:00
+nr: 42
+datum: "2027-02-10"
+tijd: "10:00"
+onderwerp: "Kun je laten zien hoe je samenwerkt?"
+linkedin: |
+  Stel dat de Belastingdienst morgen vraagt hoe je samenwerkt met je zzp'ers. Hoe lang ben je dan aan het zoeken?
+
+  Bij de meeste bedrijven zitten de afspraken overal. Een offerte in de mail van een manager. Een overeenkomst ergens op de server. Facturen in de boekhouding. De rest in iemands hoofd.
+
+  Goed regelen is één ding. Kunnen aantonen dat je het goed hebt geregeld, is iets anders.
+
+  Wat helpt is per samenwerking één dossier: de opdracht, de overeenkomst, de afspraken over resultaat en werkwijze, de facturen. Op één plek, altijd bij de hand.
+
+  Daarvoor is zzp in het mkb gemaakt. Overzicht en vastlegging, zonder bureau ertussen.
+
+  Bekijk onze website.
+sjabloon: vergelijking
+labels: [compleet, zekerheid, zelfstandigen]
+kop: "Kun je het *laten zien*?"
+kolommen: ["Zelf doen", "Met zzp in het mkb"]
+rijen:
+  - {wat: "Opdracht", a: "In een mailtje", b: "Per zzp'er vastgelegd"}
+  - {wat: "Overeenkomst", a: "Ergens op de server", b: "In hetzelfde dossier"}
+  - {wat: "Bij een controle", a: "Zoeken", b: "Direct op tafel"}

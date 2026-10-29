@@ -1,6 +1,23 @@
-# Hoort bij post 6
-sjabloon: groot-getal
-labels: [uitlenen, Wtta, inhuur]
+# Post 6 · vr 13 nov 2026 13:00
+nr: 6
+datum: "2026-11-13"
+tijd: "13:00"
+onderwerp: "€100.000 waarborgsom. Wie betaalt dat uiteindelijk?"
+linkedin: |
+  €100.000. Dat moet een uitlener straks als waarborgsom bij de NAU neerleggen. Raad eens wie dat uiteindelijk betaalt.
+
+  Gevestigde partijen die aan de voorwaarden voldoen, kunnen ontheffing krijgen. Starters betalen eerst €50.000 en vullen later aan. Daar komen een VOG, controles, administratie en juridisch advies bij.
+
+  Goed dat de uitleenmarkt wordt opgeschoond. Maar die kosten verdwijnen niet. Ze komen terug in tarieven en marges.
+
+  Jij betaalt dus meer voor dezelfde mensen. En de controle of je bureau een toelating heeft? Die blijft gewoon jouw taak.
+
+  Reken eens uit wat je externe inzet je nu werkelijk kost. De uitkomst valt zelden mee.
+
+  Bekijk onze website.
+sjabloon: "groot-getal"
+thema: "navy"
+labels: ["uitlenen", "Wtta", "inhuur"]
 kicker: "Waarborgsom per uitlener"
+kop: "Wie betaalt dat *uiteindelijk*?"
 getal: "€100.000"
-kop: "Wie betaalt dat uiteindelijk?"

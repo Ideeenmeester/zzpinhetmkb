@@ -1,0 +1,29 @@
+# Post 50 · ma 1 mrt 2027 18:00
+nr: 50
+datum: "2027-03-01"
+tijd: "18:00"
+onderwerp: "€9,99 per maand. €4,95 per overeenkomst."
+linkedin: |
+  Eén zzp'er goed geregeld inzetten kost je per maand minder dan één uur bureau-opslag.
+
+  €9,99 per maand voor je bedrijf. €4,95 per maand per lopende overeenkomst. Dat is het.
+
+  Geen percentage op de gewerkte uren. Geen marge op het tarief van de zzp'er. De zelfstandige betaalt niets.
+
+  Daarvoor krijg je overzicht van al je externe inzet, overeenkomsten die je rechtstreeks met de zzp'er sluit, en hulp om de samenwerking goed in te richten en vast te leggen.
+
+  Waarom zo weinig? Omdat software geen tussenpartij hoeft te zijn. Wij doen niet mee in jullie samenwerking. We zorgen dat die klopt.
+
+  Leg het eens naast wat je nu per uur aan opslag betaalt.
+
+  Bekijk onze website.
+sjabloon: vergelijking
+thema: navy
+labels: [compleet, zekerheid, inhuur]
+kop: "Dit kost *zzp in het mkb*"
+watkop: ""
+kolommen: ["", "Prijs"]
+rijen:
+  - {wat: "Per maand", a: "per bedrijf", b: "{{maand}}"}
+  - {wat: "Per overeenkomst", a: "per lopende overeenkomst, per maand", b: "{{overeenkomst}}"}
+  - {wat: "Op je uren", a: "geen percentage, geen marge", b: "€0"}

@@ -1,9 +1,0 @@
-# Hoort bij post 3, 23 en 26
-sjabloon: tijdlijn
-labels: [Wtta, inlenen, uitlenen]
-kop: "De Wtta in vier data"
-stappen:
-  - {datum: "1 nov", jaar: "2026", titel: "Aanmelding opent", actief: true}
-  - {datum: "1 jan", jaar: "2027", titel: "Wtta gaat in"}
-  - {datum: "1 mei", jaar: "2027", titel: "Aanvragen"}
-  - {datum: "1 jan", jaar: "2028", titel: "Handhaving, ook bij jou"}

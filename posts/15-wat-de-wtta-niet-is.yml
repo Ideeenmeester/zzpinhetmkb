@@ -1,0 +1,22 @@
+# Post 15 · vr 4 dec 2026 09:00
+nr: 15
+datum: "2026-12-04"
+tijd: "09:00"
+onderwerp: "Wat de Wtta niet is"
+linkedin: |
+  De Wtta is geen zzp-verbod. Toch doen veel bedrijven alsof het er een is.
+
+  Drie dingen die de Wtta niet is. Geen verbod op zelfstandigen. Geen nieuwe toets op schijnzelfstandigheid. Geen regel die alleen voor grote bedrijven geldt.
+
+  De wet gaat over uitlenen: partijen die mensen aan jou ter beschikking stellen om onder jouw leiding te werken.
+
+  Een zelfstandige die rechtstreeks een opdracht bij je uitvoert, op zijn eigen manier en zonder dat jij hem aanstuurt, wordt niet uitgeleend. Daar is geen toelating voor nodig.
+
+  Precies daar zit voor veel mkb-bedrijven de ruimte. Als je het goed regelt.
+
+  Bekijk onze website.
+sjabloon: "doorgestreept"
+thema: "navy"
+labels: ["Wtta", "zelfstandigen", "inlenen"]
+kop: "Wat de Wtta *niet* is"
+items: [{"titel": "Een zzp-verbod", "tekst": "Echte zelfstandigen mag je gewoon inzetten."}, {"titel": "Een DBA-toets", "tekst": "Het gaat om uitlenen, niet om zelfstandigheid."}, {"titel": "Een concernwet", "tekst": "Ook het mkb dat inleent valt eronder."}]

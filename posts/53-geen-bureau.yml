@@ -1,0 +1,21 @@
+# Post 53 · ma 8 mrt 2027 08:00
+nr: 53
+datum: "2027-03-08"
+tijd: "08:00"
+onderwerp: "Zzpinhetmkb is geen bureau"
+linkedin: |
+  Wij zijn geen bureau. Wij verdienen geen cent aan de uren van jouw zzp'ers.
+
+  Een bureau zit tussen jou en de zelfstandige. Het sluit contracten met beide kanten, praat mee over het tarief en verdient aan elk gewerkt uur.
+
+  Zzp in het mkb zit ernaast. Jij en de zzp'er sluiten de overeenkomst rechtstreeks. Jullie spreken samen het tarief af. Wij zorgen voor overzicht, vastlegging en ondersteuning als je die nodig hebt.
+
+  Omdat je ons per maand en per overeenkomst betaalt, hebben we er geen belang bij dat iemand zo lang mogelijk blijft of zoveel mogelijk uren maakt.
+
+  Ons enige belang is dat het goed geregeld is.
+
+  Bekijk onze website.
+sjabloon: twee-kanten
+midden: "Rechtstreeks"
+links: {titel: "Ik werk met zzp'ers", tekst: "Heb je het overzicht?", knop: "Scan je externe inzet"}
+rechts: {titel: "Ik ben zzp'er", tekst: "Zonder marge op je tarief", knop: "Meld je aan"}

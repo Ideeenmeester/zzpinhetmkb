@@ -1,6 +1,22 @@
-# Hoort bij post 2 en 8
-sjabloon: statement
-labels: [Wtta, inlenen, zekerheid]
+# Post 2 · wo 4 nov 2026 09:00
+nr: 2
+datum: "2026-11-04"
+tijd: "09:00"
+onderwerp: "Jij leent in. Jij bent verantwoordelijk."
+linkedin: |
+  Het bureau stuurt de factuur. Jij krijgt de boete.
+
+  Zo simpel wordt het vanaf 1 januari 2028. Dan mag je alleen nog arbeidskrachten inlenen van een uitlener met een Wtta-toelating. Werk je met een partij zonder, dan ben jij als inlener in overtreding.
+
+  Veel ondernemers denken dat het bureau dat risico draagt. Voor de Wtta klopt dat niet. De controleplicht ligt bij jou, bij elke uitlener en bij elke inhuur.
+
+  Je betaalt een bureau dus voor zekerheid die je uiteindelijk zelf moet regelen.
+
+  Wie houdt bij jullie bij met welke uitleners je werkt? Is het antwoord "niemand", dan heb je nu nog ruim een jaar.
+
+  Bekijk onze website.
+sjabloon: "statement"
+thema: "blauw"
+labels: ["Wtta", "inlenen", "zekerheid"]
 kicker: "Handhaving vanaf 1 januari 2028"
 kop: "Jij leent in.\n*Jij* bent verantwoordelijk."
-knop: "Doe de check!"

@@ -1,0 +1,22 @@
+# Post 3 · vr 6 nov 2026 10:00
+nr: 3
+datum: "2026-11-06"
+tijd: "10:00"
+onderwerp: "De Wtta in gewone taal"
+linkedin: |
+  Vier data. Eén ervan kost je straks geld als je hem mist.
+
+  1 november 2026: uitleners melden zich aan voor de overgangsregeling. Dat kan tot en met 31 december.
+  1 januari 2027: de Wtta gaat in.
+  1 mei tot en met 30 juni 2027: uitleners vragen hun toelating aan bij de Nederlandse Autoriteit Uitleenmarkt.
+  1 januari 2028: je mag alleen nog inlenen bij toegelaten uitleners. De Arbeidsinspectie controleert, ook bij jou.
+
+  Wie mensen uitleent die onder leiding van een ander werken, heeft een toelating nodig. Uitzendbureaus, detacheerders, payrollers. Wie inleent, moet dat kunnen aantonen.
+
+  Zet die laatste datum in je agenda. En 1 juli 2027 ook: vanaf dan zie je in het register wie het heeft gehaald.
+
+  Bekijk onze website.
+sjabloon: "tijdlijn"
+labels: ["Wtta", "inlenen", "uitlenen"]
+kop: "De Wtta in vier data"
+stappen: [{"datum": "1 nov", "jaar": "2026", "titel": "Aanmelding opent", "actief": true}, {"datum": "1 jan", "jaar": "2027", "titel": "Wtta gaat in"}, {"datum": "1 mei", "jaar": "2027", "titel": "Aanvragen"}, {"datum": "1 jan", "jaar": "2028", "titel": "Handhaving, ook bij jou"}]

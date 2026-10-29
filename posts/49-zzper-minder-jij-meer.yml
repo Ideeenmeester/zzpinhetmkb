@@ -1,0 +1,24 @@
+# Post 49 · vr 26 feb 2027 17:00
+nr: 49
+datum: "2027-02-26"
+tijd: "17:00"
+onderwerp: "De zzp'er krijgt minder, jij betaalt meer"
+linkedin: |
+  Jij betaalt €90 per uur. Je zzp'er krijgt €72. Allebei voelen jullie je tekortgedaan, en dat klopt.
+
+  Voor jou is €90 een fors tarief. Voor de zzp'er is €72 minder dan hij zelf zou vragen. Alleen de partij in het midden heeft een goed verhaal.
+
+  Stel dat jullie elkaar rechtstreeks vinden en samen €80 afspreken. Jij betaalt minder, hij verdient meer, en niemand levert iets in.
+
+  Daarom werken wij aan rechtstreekse samenwerking. Bureaus zijn niet slecht. Maar elke euro die tussen opdrachtgever en zelfstandige blijft hangen, is voor allebei verloren.
+
+  Bekijk onze website.
+sjabloon: vergelijking
+thema: blauw
+labels: [zelfstandigen, inhuur, extern]
+kop: "Jij betaalt meer. *Hij krijgt minder.*"
+watkop: ""
+kolommen: ["Via een bureau", "Rechtstreeks"]
+rijen:
+  - {wat: "Jij betaalt", a: "€90 per uur", b: "€80 per uur"}
+  - {wat: "Zzp'er krijgt", a: "€72 per uur", b: "€80 per uur"}

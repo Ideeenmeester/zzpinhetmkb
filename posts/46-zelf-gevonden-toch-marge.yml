@@ -1,0 +1,24 @@
+# Post 46 · vr 19 feb 2027 14:00
+nr: 46
+datum: "2027-02-19"
+tijd: "14:00"
+onderwerp: "Zelf gevonden. Toch marge betalen."
+linkedin: |
+  Je hebt de zzp'er zelf gevonden, zelf gesproken en zelf het tarief afgesproken. En toch betaal je een bureau.
+
+  Het gebeurt vaker dan je denkt. Een manager kent een goede zelfstandige uit zijn netwerk, alles is rond, en dan zegt inkoop: alle externe inhuur loopt via ons vaste bureau.
+
+  Dat bureau heeft niemand geworven en niemand geselecteerd. Maar het rekent wel een opslag op elk uur.
+
+  Vaak is dat beleid bedoeld als voorzichtigheid. Een bureau ertussen voelt veilig. Alleen verandert dat niets aan je eigen verantwoordelijkheid onder de Wtta.
+
+  Je betaalt dan voor veiligheid die er niet is, bij iemand die je zelf hebt gevonden.
+
+  Bekijk onze website.
+sjabloon: doorgestreept
+labels: [zelfstandigen, flexibele schil, extern]
+kop: "Wat je bespaart zonder *commerciële tussenlaag*"
+items:
+  - {titel: "Bemiddelingskosten", tekst: "Geen percentage op elk gewerkt uur."}
+  - {titel: "Overnamefee", tekst: "Geen geld om iemand langer te houden."}
+  - {titel: "Concurrentiebeding", tekst: "Gewoon verder met wie je al kent."}

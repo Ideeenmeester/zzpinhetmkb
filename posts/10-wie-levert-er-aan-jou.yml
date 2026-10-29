@@ -1,0 +1,23 @@
+# Post 10 · ma 23 nov 2026 17:00
+nr: 10
+datum: "2026-11-23"
+tijd: "17:00"
+onderwerp: "Hoeveel partijen leveren nu mensen aan jou?"
+linkedin: |
+  Hoeveel partijen leveren op dit moment mensen aan jouw bedrijf? Als je het moet opzoeken, heb je al een probleem.
+
+  Uitzendbureaus, detacheerders, payrollers, bemiddelaars. Daarnaast de zzp'ers die rechtstreeks voor je werken. Bij de meeste mkb-bedrijven is dat per afdeling gegroeid. Elke manager zijn eigen bureau, zijn eigen afspraken.
+
+  Tot nu toe was dat vooral onhandig. Straks moet je voor elke uitlener op die lijst kunnen aantonen dat hij een toelating heeft. En voor elke zzp'er dat hij echt zelfstandig werkt.
+
+  Certificaten in mailboxen en afspraken in iemands hoofd houden dat niet vol.
+
+  Begin met één lijst. Wie werkt er, via wie, en op basis waarvan.
+
+  Bekijk onze website.
+sjabloon: "vergelijking"
+thema: "blauw"
+labels: ["extern", "compleet", "zekerheid"]
+kop: "Wat je goed geregeld moet hebben"
+kolommen: ["Zelf doen", "Met Zoriva"]
+rijen: [{"wat": "Certificaten", "a": "Verspreid over mailboxen", "b": "In één dossier"}, {"wat": "Verloopdatums", "a": "Als je eraan denkt", "b": "Een seintje vooraf"}, {"wat": "Compliance", "a": "Per opdracht uitzoeken", "b": "Per opdracht vastgelegd"}]

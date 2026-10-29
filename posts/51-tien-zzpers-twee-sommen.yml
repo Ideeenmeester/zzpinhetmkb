@@ -1,0 +1,28 @@
+# Post 51 · wo 3 mrt 2027 19:00
+nr: 51
+datum: "2027-03-03"
+tijd: "19:00"
+onderwerp: "Tien zzp'ers, twee rekensommen"
+linkedin: |
+  €150.000 of €714 per jaar. Voor dezelfde tien zzp'ers en precies hetzelfde werk.
+
+  Neem een bedrijf met tien zzp'ers die ieder 1.000 uur per jaar werken tegen €75 per uur.
+
+  Via een tussenpartij met 20 procent opslag betaal je €150.000 per jaar bovenop hun tarieven.
+
+  Via zzp in het mkb betaal je €9,99 per maand en €4,95 per lopende overeenkomst per maand. Voor tien overeenkomsten komt dat op €714 per jaar.
+
+  Het verschil is geen paar procent. Het is een fulltime functie, een investering of gewoon winst.
+
+  De verantwoordelijkheid lag in beide gevallen bij jou. In het tweede geval heb je hem alleen zelf in handen.
+
+  Bekijk onze website.
+sjabloon: vergelijking
+labels: [extra krachten, inhuur, compleet]
+kop: "Tien zzp'ers, *twee rekensommen*"
+kicker: "1.000 uur per persoon, €75 per uur"
+watkop: ""
+kolommen: ["Via een bureau", "Rechtstreeks met zzp in het mkb"]
+rijen:
+  - {wat: "Extra kosten", a: "20% opslag", b: "Vast bedrag per maand"}
+  - {wat: "Per jaar", a: "€150.000", b: "{{jaar:10}}"}

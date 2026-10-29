@@ -1,0 +1,31 @@
+# Post 32 · ma 18 jan 2027 13:00
+nr: 32
+datum: "2027-01-18"
+tijd: "13:00"
+onderwerp: "Inlenen of opdracht geven: zes verschillen"
+linkedin: |
+  Of je iemand inleent of een opdracht geeft, bepaalt welke wet er op je bureau ligt.
+
+  Inlenen? Dan gaat het om de Wtta en moet je uitlener een toelating hebben. Een opdracht aan een zelfstandige? Dan draait alles om de vraag of het echt zelfstandig werk is.
+
+  Het verschil zit in zes dingen:
+
+  1. Wie stuurt aan: jij, of de zelfstandige zelf?
+  2. Wat koop je: uren, of een resultaat?
+  3. Wiens werkwijze geldt?
+  4. Wiens spullen worden gebruikt?
+  5. Betaal je uurtarief plus opslag, of een afgesproken prijs?
+  6. Wie draait op voor fouten?
+
+  Zit je zzp-inzet vooral in het eerste deel van elke vraag? Dan heb je huiswerk.
+
+  Bekijk onze website.
+sjabloon: vergelijking
+labels: [inlenen, zelfstandigen, DBA]
+kop: "Inlenen of een *opdracht* geven?"
+watkop: "Vraag"
+kolommen: ["Inlenen", "Opdracht"]
+rijen:
+  - {wat: "Wie stuurt aan?", a: "Jij.", b: "De zzp'er bepaalt zelf hoe."}
+  - {wat: "Wat koop je?", a: "Uren.", b: "Een resultaat."}
+  - {wat: "Wie draagt risico?", a: "Jij.", b: "De ondernemer."}

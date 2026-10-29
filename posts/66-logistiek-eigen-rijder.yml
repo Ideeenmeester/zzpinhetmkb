@@ -1,0 +1,25 @@
+# Post 66 · vr 9 apr 2027 08:00
+nr: 66
+datum: "2027-04-09"
+tijd: "08:00"
+onderwerp: "Logistiek: chauffeurs en planners"
+linkedin: |
+  Een chauffeur in jouw truck, op jouw route, volgens jouw planning. Hoe zelfstandig is dat nog?
+
+  In de logistiek lopen zelfstandigheid en inlenen voortdurend door elkaar.
+
+  De eigen rijder heeft een eigen vrachtwagen, een vergunning, meerdere opdrachtgevers en eigen risico. Dat is ondernemerschap.
+
+  De zzp-chauffeur die bij jou instapt en doet wat de planner zegt, is iets anders. Komt hij via een bureau, dan leen je in en moet dat bureau vanaf 2028 een toelating hebben. Hetzelfde geldt voor planners en magazijnmedewerkers via een uitlener.
+
+  Logistieke bedrijven werken met veel externen. Weet per persoon in welke categorie hij valt, voordat iemand anders het voor je bepaalt.
+
+  Bekijk onze website.
+sjabloon: vergelijking
+thema: "blauw"
+labels: ["extern", "inlenen", "zelfstandigen"]
+kicker: "Logistiek"
+kop: "Eigen rijder of *chauffeur in jouw truck*?"
+watkop: ""
+kolommen: ["Chauffeur in jouw truck", "Eigen rijder"]
+rijen: [{"wat": "Vrachtwagen", "a": "Van jou", "b": "Van hem"}, {"wat": "Route en planning", "a": "Jouw planner", "b": "Zelf"}, {"wat": "Klanten", "a": "Alleen jij", "b": "Meerdere"}]

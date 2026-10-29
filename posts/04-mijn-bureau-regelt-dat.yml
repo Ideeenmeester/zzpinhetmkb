@@ -1,7 +1,22 @@
-# Hoort bij post 4 en 7
-sjabloon: statement
-thema: navy
-vorm: cirkel
-labels: [inhuur, veilig, zekerheid]
-kop: "\"Mijn bureau regelt dat wel.\"\n*Zeker weten?*"
-knop: "Doe de check!"
+# Post 4 · ma 9 nov 2026 11:00
+nr: 4
+datum: "2026-11-09"
+tijd: "11:00"
+onderwerp: "\"Mijn bureau regelt dat wel\""
+linkedin: |
+  "Dat regelt ons bureau wel." Het gevaarlijkste zinnetje in je inhuurbeleid.
+
+  Vanaf 2028 moet jij als inlener controleren of je uitlener een toelating heeft. Een geruststellend telefoontje van je accountmanager telt dan niet. Een vermelding in het register van de NAU wel.
+
+  Stel jezelf drie vragen. Heeft mijn bureau zich aangemeld voor de overgangsregeling? Gaat het de toelating aanvragen? Kan het de waarborgsom van €100.000 storten, of krijgt het ontheffing?
+
+  Weet je het antwoord niet? Dan weet je ook niet of je over veertien maanden nog met die mensen mag werken.
+
+  Vertrouwen is prima. Controleren wordt verplicht.
+
+  Bekijk onze website.
+sjabloon: "statement"
+thema: "geel"
+vorm: "cirkel"
+labels: ["inhuur", "veilig", "zekerheid"]
+kop: "\"Ons bureau regelt het.\"\n*Zeker weten?*"

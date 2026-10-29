@@ -1,0 +1,25 @@
+# Post 62 · wo 31 mrt 2027 17:00
+nr: 62
+datum: "2027-03-31"
+tijd: "17:00"
+onderwerp: "Bouw: ondernemer of verkapte werknemer?"
+linkedin: |
+  Op de bouwplaats zie je het verschil tussen een zzp'er en een werknemer soms niet. De Belastingdienst wil het wel zien.
+
+  Ze werken zij aan zij. Zelfde uitvoerder, zelfde planning, zelfde keet. Is die zzp'er dan een ondernemer of een extra paar handen?
+
+  Een zelfstandige in de bouw neemt een afgebakende klus aan. Het complete tegelwerk, de elektra van een woning. Hij werkt met eigen gereedschap, maakt een eigen prijs en herstelt zijn eigen fouten.
+
+  Zet je hem in waar de uitvoerder hem die dag nodig heeft? Dan wordt het lastig uit te leggen.
+
+  Bouwbedrijven die dat verschil scherp hebben, kunnen gewoon met zzp'ers blijven werken. Rechtstreeks, zonder marge.
+
+  Bekijk onze website.
+sjabloon: vergelijking
+thema: "groen"
+labels: ["zelfstandigen", "DBA", "expertise"]
+kicker: "Bouw"
+kop: "Extra handen of een *eigen klus*?"
+watkop: ""
+kolommen: ["Extra handen", "Zelfstandige klus"]
+rijen: [{"wat": "Opdracht", "a": "Waar de uitvoerder hem zet", "b": "Het complete tegelwerk"}, {"wat": "Gereedschap", "a": "Van jou", "b": "Van hem"}, {"wat": "Prijs", "a": "Per uur", "b": "Per klus"}]

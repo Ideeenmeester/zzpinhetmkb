@@ -14,4 +14,4 @@ prijzen:
   per_overeenkomst: 4.95    # per lopende overeenkomst per maand
 formaten:
   linkedin:  { breedte: 1200, hoogte: 627 }
-  instagram: { breedte: 1080, hoogte: 1350 }
+  # instagram: { breedte: 1080, hoogte: 1350 }   # doet nu niet mee

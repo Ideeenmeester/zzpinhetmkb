@@ -1,4 +1,21 @@
-# Hoort bij post 5 en 69
-sjabloon: statement
-labels: [inlenen, extern, Wtta]
-kop: "Werkt iemand onder *jouw leiding*? Dan leen je in."
+# Post 5 · wo 11 nov 2026 12:00
+nr: 5
+datum: "2026-11-11"
+tijd: "12:00"
+onderwerp: "Werkt iemand onder jouw leiding? Dan leen je in."
+linkedin: |
+  Bepaal jij de werktijden van je externe krachten? Dan leen je waarschijnlijk in. Ook als het contract iets anders zegt.
+
+  De Wtta draait om leiding en toezicht. Werkt iemand onder jouw aansturing, terwijl een andere partij hem aan je ter beschikking stelt? Dan is dat inlenen. Of die partij zich nu uitzendbureau, detacheerder, payroller of bemiddelaar noemt.
+
+  Wie verdeelt het werk? Wie zegt hoe het moet? Wie keurt het verlof goed? Ligt dat bij jou, dan heeft die partij straks een toelating nodig. En moet jij dat controleren.
+
+  Het etiket op de factuur doet er niet toe. De praktijk op de werkvloer wel.
+
+  Loop je externe mensen eens langs met die drie vragen.
+
+  Bekijk onze website.
+sjabloon: "statement"
+thema: "blauw"
+labels: ["inlenen", "extern", "Wtta"]
+kop: "Werkt iemand onder *jouw leiding*?\nDan leen je in."

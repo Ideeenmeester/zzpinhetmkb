@@ -1,0 +1,21 @@
+# Post 76 · ma 3 mei 2027 18:00
+nr: 76
+datum: "2027-05-03"
+tijd: "18:00"
+onderwerp: "De aanvraagperiode is begonnen"
+linkedin: |
+  Sinds zaterdag bepaalt de NAU welk uitzendbureau over acht maanden nog aan jou mag uitlenen.
+
+  Tot en met 30 juni dienen uitleners hun aanvraag in. Vanaf 1 juli zie je in het openbare register wie een toelating heeft, een ontheffing, of nog onder de overgangsregeling valt.
+
+  Vanaf 1 januari 2028 mag je alleen nog met die partijen werken.
+
+  Pak dus nu je lijst. Welke uitleners leveren mensen aan je? Van welke weet je zeker dat ze hun aanvraag indienen? En waar twijfel je?
+
+  Bij die laatste groep zit je risico. Begin daar.
+
+  Bekijk onze website.
+sjabloon: tijdlijn
+labels: ["Wtta", "uitlenen", "inlenen"]
+kop: "Het aftellen is *begonnen*"
+stappen: [{"datum": "1 mei", "jaar": "2027", "titel": "Aanvragen gestart", "actief": true}, {"datum": "30 jun", "jaar": "2027", "titel": "Aanvraag sluit"}, {"datum": "1 jul", "jaar": "2027", "titel": "Register openbaar"}, {"datum": "1 jan", "jaar": "2028", "titel": "Handhaving, ook bij jou"}]

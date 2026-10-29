@@ -1,0 +1,25 @@
+# Post 39 · wo 3 feb 2027 20:00
+nr: 39
+datum: "2027-02-03"
+tijd: "20:00"
+onderwerp: "Eigen gereedschap, eigen middelen"
+linkedin: |
+  Laptop van de zaak, bedrijfsauto, telefoon en werkkleding met jouw logo. Gefeliciteerd, je hebt een werknemer aangekleed.
+
+  Van een ondernemer verwacht je iets anders. De timmerman komt met zijn eigen bus en gereedschap. De IT'er met zijn eigen laptop en licenties. De adviseur met zijn eigen methodes.
+
+  Hoe meer een zzp'er van jou krijgt, hoe kleiner het verschil met je eigen personeel.
+
+  Soms moet iemand jouw systemen gebruiken, bijvoorbeeld om veiligheidsredenen. Prima. Maar dan als uitzondering met een reden, niet als standaard.
+
+  Zet eens op een rij wat jouw zelfstandigen allemaal van jou krijgen.
+
+  Bekijk onze website.
+sjabloon: doorgestreept
+thema: navy
+labels: [zelfstandigen, expertise, DBA]
+kop: "Wat een *zelfstandige* niet van jou nodig heeft"
+items:
+  - {titel: "Laptop van de zaak", tekst: "Hij werkt met zijn eigen spullen."}
+  - {titel: "Bedrijfsauto", tekst: "Hij komt met zijn eigen bus."}
+  - {titel: "Jouw werkkleding", tekst: "Hij is een eigen bedrijf."}

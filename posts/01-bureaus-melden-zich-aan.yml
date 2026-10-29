@@ -1,7 +1,22 @@
-# Hoort bij post 1 (ma 2 nov 2026)
-sjabloon: statement
-thema: geel
-labels: [Wtta, uitlenen, inhuur]
-kicker: "Aanmelden kan tot en met 31 december 2026"
-kop: "Bureaus melden zich aan. *Het jouwe ook?*"
-knop: "Doe de check!"
+# Post 1 · ma 2 nov 2026 08:00
+nr: 1
+datum: "2026-11-02"
+tijd: "08:00"
+onderwerp: "Vanaf 1 november melden bureaus zich aan. Het jouwe ook?"
+linkedin: |
+  Huur je mensen in via een bureau? Dan kun jij straks de boete krijgen. Niet het bureau.
+
+  Sinds gisteren melden uitzendbureaus, detacheerders en payrollers zich aan voor de Wtta. Ze hebben tot 31 december. Wie dat mist, valt buiten de overgangsregeling.
+
+  Vanaf 1 januari 2028 mag je alleen nog inlenen bij een uitlener met een toelating. Zit jouw bureau daar niet bij, dan klopt de Arbeidsinspectie bij jou aan.
+
+  Bel je bureau deze week. Vraag of ze zich hebben aangemeld en laat het per mail bevestigen.
+
+  Weet je niet eens precies met hoeveel bureaus je werkt? Dan weet je ook waar je moet beginnen.
+
+  Bekijk onze website.
+sjabloon: "statement"
+thema: "geel"
+labels: ["Wtta", "uitlenen", "inhuur"]
+kicker: "Aanmelden kan tot en met 31 december"
+kop: "Is jouw bureau al *aangemeld*?"

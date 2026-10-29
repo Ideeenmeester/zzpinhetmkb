@@ -1,0 +1,23 @@
+# Post 23 · wo 23 dec 2026 17:00
+nr: 23
+datum: "2026-12-23"
+tijd: "17:00"
+onderwerp: "Wat er op 1 januari verandert, en wat nog niet"
+linkedin: |
+  Over negen dagen gaat de Wtta in. Op de werkvloer verandert er helemaal niets. Dat is precies het gevaar.
+
+  1 januari 2027: de wet treedt in werking. Uitleners in de overgangsregeling werken door.
+  1 mei tot en met 30 juni 2027: zij vragen hun toelating aan.
+  1 juli 2027: in het openbare register zie je wie is toegelaten.
+  1 januari 2028: je mag alleen nog inlenen bij toegelaten uitleners, en de Arbeidsinspectie controleert dat ook bij jou.
+
+  Je hebt dus een jaar. Klinkt ruim. Wie in die tijd leveranciers wil checken, contracten wil aanpassen of zijn inhuur anders wil inrichten, heeft het hard nodig.
+
+  Bekijk onze website.
+sjabloon: "vergelijking"
+thema: "navy"
+labels: ["Wtta", "inlenen", "uitlenen"]
+kop: "Wat verandert er, en *wanneer*?"
+kolommen: ["Voor uitleners", "Voor jou als inlener"]
+watkop: "Datum"
+rijen: [{"wat": "1 jan 2027", "a": "Wtta gaat in", "b": "Nog geen handhaving"}, {"wat": "1 jul 2027", "a": "Register openbaar", "b": "Controleren kan"}, {"wat": "1 jan 2028", "a": "Alleen met toelating", "b": "Handhaving, ook bij jou"}]

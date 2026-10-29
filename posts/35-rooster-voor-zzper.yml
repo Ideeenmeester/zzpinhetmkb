@@ -1,0 +1,26 @@
+# Post 35 · ma 25 jan 2027 16:00
+nr: 35
+datum: "2027-01-25"
+tijd: "16:00"
+onderwerp: "Een rooster voor je zzp'er? Pas op."
+linkedin: |
+  Je zzp'er staat op het rooster, meldt zich ziek bij de teamleider en vraagt vrij aan. Weet je wat dat is? Een werknemer.
+
+  Kleine dingen vertellen bij een controle het hele verhaal. Een personeelspas. Een e-mailadres van de zaak. Een plek in het organogram. Mee op de teamfoto.
+
+  Elk los punt is geen ramp. Samen klinken ze als een dienstverband, ook als er "overeenkomst van opdracht" op het contract staat. Er wordt gekeken naar de praktijk.
+
+  Meestal is het niet zo bedoeld. Iemand werkt er lang, hoort erbij, en ongemerkt is hij een werknemer zonder contract geworden.
+
+  Loop het deze week na voor elke zzp'er die bij je werkt.
+
+  Bekijk onze website.
+sjabloon: checklist
+thema: navy
+labels: [zelfstandigen, DBA, veilig]
+kop: "Lijkt jouw zzp'er op een *werknemer*?"
+punten:
+  - "Staat op het rooster"
+  - "Meldt zich ziek bij de teamleider"
+  - "Vraagt verlof aan"
+  - "Heeft een personeelspas"

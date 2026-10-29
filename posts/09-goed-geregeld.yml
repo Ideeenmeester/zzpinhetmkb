@@ -1,9 +1,0 @@
-# Hoort bij post 10, 42 en 55
-sjabloon: vergelijking
-labels: [zelfstandigen, compleet, zekerheid]
-kop: "Wat je goed geregeld moet hebben"
-kolommen: ["Zelf doen", "Met Zoriva"]
-rijen:
-  - {wat: "Certificaten", a: "Verspreid over mailboxen", b: "In één dossier"}
-  - {wat: "Verloopdatums", a: "Als je eraan denkt", b: "Een seintje vooraf"}
-  - {wat: "Compliance", a: "Per opdracht uitzoeken", b: "Per opdracht vastgelegd"}

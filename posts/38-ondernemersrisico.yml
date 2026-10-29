@@ -1,0 +1,27 @@
+# Post 38 · ma 1 feb 2027 19:00
+nr: 38
+datum: "2027-02-01"
+tijd: "19:00"
+onderwerp: "Ondernemersrisico"
+linkedin: |
+  Levert je zzp'er slecht werk af en betaal je toch gewoon alle uren? Dan draag jij zijn ondernemersrisico.
+
+  En dat is precies waar bij zelfstandigheid naar gekeken wordt.
+
+  Moet hij fouten op eigen kosten herstellen? Heeft hij geen inkomen als hij ziek is? Is hij verzekerd voor schade? Investeert hij zelf in opleiding en gereedschap?
+
+  Hoe vaker het antwoord nee is, hoe meer het op een dienstverband lijkt.
+
+  Leg in de overeenkomst vast wat er gebeurt als het misgaat. Herstel, aansprakelijkheid, wat er bij uitval gebeurt. Dan is meteen duidelijk wie hier de ondernemer is.
+
+  Bekijk onze website.
+sjabloon: vergelijking
+thema: groen
+labels: [zelfstandigen, DBA, zekerheid]
+kop: "Wie draait op als het *misgaat*?"
+watkop: "Situatie"
+kolommen: ["Werknemer", "Zelfstandige"]
+rijen:
+  - {wat: "Fout gemaakt", a: "Werkgever betaalt", b: "Herstelt op eigen kosten"}
+  - {wat: "Ziek", a: "Loon loopt door", b: "Geen omzet"}
+  - {wat: "Schade", a: "Werkgever aansprakelijk", b: "Eigen verzekering"}
