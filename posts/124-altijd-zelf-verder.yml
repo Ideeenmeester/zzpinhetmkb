@@ -1,0 +1,20 @@
+# Post 124 · do 4 mrt 2027 20:00
+nr: 124
+datum: "2027-03-04"
+tijd: "20:00"
+onderwerp: "Geen afhankelijkheid: je kunt altijd zelf verder"
+linkedin: |
+  Stel dat je morgen met zzpinhetmkb stopt. Wat raak je dan kwijt?
+
+  Niets. Je zzp'ers blijven gewoon je zzp'ers. De overeenkomsten waren al rechtstreeks tussen jou en hen. Er is geen beding dat je verbiedt verder te werken met mensen die je kent, en niemand vraagt een overnamefee als je iemand in dienst wilt nemen.
+
+  Dat is precies het punt. Software hoort je werk makkelijker te maken, niet je relaties over te nemen.
+
+  Wij verdienen geen percentage aan je uren. We hebben er dus ook geen belang bij je vast te houden. Je blijft omdat het werkt, of je gaat. Allebei prima.
+
+  Bekijk onze website.
+sjabloon: "doorgestreept"
+thema: "navy"
+labels: ["rechtstreeks", "regie", "flexibele schil"]
+kop: "Altijd *zelf verder* kunnen"
+items: [{"titel": "Overnamefee", "tekst": "Iemand in dienst nemen? Niemand vraagt daar geld voor."}, {"titel": "Beding", "tekst": "Je mag altijd rechtstreeks verder met wie je kent."}, {"titel": "Marge per uur", "tekst": "Het tarief is wat jullie samen afspreken."}]

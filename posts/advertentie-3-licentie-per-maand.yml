@@ -1,0 +1,20 @@
+advertentie: true
+onderwerp: "Geen percentage per uur, gewoon een licentie per maand"
+linkedin: |
+  Bureaus verdienen aan elk uur dat jouw zzp'er werkt. Wij niet.
+
+  Bij zzpinhetmkb betaal je €9,99 per maand voor je bedrijf en €4,95 per maand per lopende overeenkomst. De zzp'er betaalt niets.
+
+  Geen percentage, geen marge op het tarief. Transparant voor jou en voor de zelfstandige.
+
+  Bekijk onze website.
+sjabloon: vergelijking
+thema: navy
+labels: [transparant, compleet, inhuur]
+kop: "Geen percentage. *Gewoon een licentie.*"
+watkop: ""
+kolommen: ["", "Prijs"]
+rijen:
+  - {wat: "Per maand", a: "per bedrijf", b: "{{maand}}"}
+  - {wat: "Per overeenkomst", a: "per lopende overeenkomst, per maand", b: "{{overeenkomst}}"}
+  - {wat: "Op de uren", a: "geen percentage, geen marge", b: "€0"}

@@ -1,0 +1,23 @@
+# Post 97 · di 24 nov 2026 19:00
+nr: 97
+datum: "2026-11-24"
+tijd: "19:00"
+onderwerp: "Transparant: je ziet precies wat je betaalt"
+linkedin: |
+  Weet jij wat je vorig jaar aan opslag hebt betaald voor je externe mensen? De meeste ondernemers niet. Het staat nergens apart op de factuur.
+
+  Wij vinden dat je moet kunnen zien waar je geld naartoe gaat. Daarom is onze prijs openbaar en simpel.
+
+  €9,99 per maand voor je bedrijf. €4,95 per maand per lopende overeenkomst. Wil je extra ondersteuning, dan maken we een voorstel op maat.
+
+  De rest van het geld gaat naar de zzp'er die het werk doet. Tegen het tarief dat jullie samen hebben afgesproken.
+
+  Geen percentage per uur, gewoon een licentie per maand.
+
+  Bekijk onze website.
+sjabloon: groot-getal
+thema: blauw
+labels: [transparant, compleet, inhuur]
+kicker: Per maand voor je bedrijf
+getal: '{{maand}}'
+kop: Plus {{overeenkomst}} per overeenkomst. *Dat is alles.*

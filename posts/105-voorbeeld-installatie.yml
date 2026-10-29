@@ -1,0 +1,27 @@
+# Post 105 · di 22 dec 2026 14:00
+nr: 105
+datum: "2026-12-22"
+tijd: "14:00"
+onderwerp: "Het kan gewoon: een voorbeeld uit de installatiebranche"
+linkedin: |
+  Een installatiebedrijf met een piek in de planning. Zo kan het ook.
+
+  In plaats van drie monteurs via een bureau in de eigen bus te zetten, geeft het bedrijf een zelfstandig installateur een complete klus. De warmtepompen in een nieuwbouwproject, inclusief inregelen en oplevering.
+
+  De installateur komt met zijn eigen bus en gereedschap. Hij plant het werk zelf in en spreekt een prijs per klus af. Is er een fout, dan herstelt hij die op eigen kosten.
+
+  Geen gezag, dus geen inlenen. Geen marge voor een tussenpartij. En in zzpinhetmkb staat de opdracht met het dossier van de installateur netjes vastgelegd.
+
+  Het kan gewoon.
+
+  Bekijk onze website.
+sjabloon: vergelijking
+thema: blauw
+labels: [extra krachten, expertise, rechtstreeks]
+kop: Piek in de planning? *Geef een klus.*
+watkop: ''
+kolommen: [Ingeleende monteur, Zelfstandig installateur]
+rijen:
+- {wat: Bus, a: Van jou, b: Van hem}
+- {wat: Planning, a: Jouw planner, b: Zelf}
+- {wat: Prijs, a: Uurtarief plus opslag, b: Per klus}

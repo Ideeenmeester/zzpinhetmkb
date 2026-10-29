@@ -1,0 +1,23 @@
+# Post 137 · di 20 apr 2027 20:00
+nr: 137
+datum: "2027-04-20"
+tijd: "20:00"
+onderwerp: "Zo ziet een opdracht eruit"
+linkedin: |
+  Een goed geregelde zzp-opdracht past op één A4. Zo ziet hij eruit.
+
+  Eerst het resultaat. Wat moet er klaar zijn en waaraan zie je dat het goed is? Geen uren per week, maar een uitkomst.
+
+  Dan de afspraken. De prijs die jullie samen bepalen, de planning, en wat er gebeurt als iets niet goed gaat. De zzp'er bepaalt zelf hoe hij het werk aanpakt.
+
+  Daarna leg je het vast in zzpinhetmkb. De overeenkomst staat rechtstreeks tussen jullie, en per opdracht wordt vastgelegd waarom het zelfstandig werk is.
+
+  Tot slot het dossier: KvK, registraties, certificaten en verzekeringen op één plek.
+
+  Meer is het niet.
+
+  Bekijk onze website.
+sjabloon: "tijdlijn"
+labels: ["rechtstreeks", "compleet", "DBA"]
+kop: "Zo ziet een *opdracht* eruit"
+stappen: [{"datum": "1", "jaar": "stap", "titel": "Resultaat afspreken", "actief": true}, {"datum": "2", "jaar": "stap", "titel": "Prijs en planning"}, {"datum": "3", "jaar": "stap", "titel": "Overeenkomst vastleggen"}, {"datum": "4", "jaar": "stap", "titel": "Dossier compleet"}]

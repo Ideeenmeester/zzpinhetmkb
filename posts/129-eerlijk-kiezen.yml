@@ -1,0 +1,22 @@
+# Post 129 · di 23 mrt 2027 12:00
+nr: 129
+datum: "2027-03-23"
+tijd: "12:00"
+onderwerp: "Iemand onder je leiding nodig? Dan eerlijk kiezen"
+linkedin: |
+  Niet elke klus hoort bij een zzp'er. Dat zeggen wij gewoon hardop.
+
+  Heb je iemand nodig die je dagelijks aanstuurt, op jouw tijden en volgens jouw werkwijze? Neem diegene dan in dienst. Is het tijdelijk en komt die persoon via een andere partij? Werk dan met een uitlener die een toelating heeft, want vanaf 2028 moet dat.
+
+  Maar heel veel werk is gewoon een opdracht. Een installatie, een project, een advies, een website. Afgebakend, met een resultaat, uitgevoerd door iemand die zelf bepaalt hoe.
+
+  Voor dat werk is zzpinhetmkb. Rechtstreeks, zonder gezag en goed vastgelegd. Eerlijk kiezen per situatie geeft de meeste rust.
+
+  Bekijk onze website.
+sjabloon: "vergelijking"
+thema: "blauw"
+labels: ["inlenen", "Wtta", "zelfstandigen"]
+kop: "Kies per klus de *juiste vorm*"
+watkop: "Situatie"
+kolommen: ["Kenmerk", "Beste vorm"]
+rijen: [{"wat": "Dagelijks aansturen", "a": "Jij bepaalt hoe en wanneer", "b": "In dienst nemen"}, {"wat": "Tijdelijk onder jouw leiding", "a": "Via een andere partij", "b": "Toegelaten uitlener"}, {"wat": "Afgebakende opdracht", "a": "De vakman bepaalt hoe", "b": "Rechtstreeks via zzp in het mkb"}]

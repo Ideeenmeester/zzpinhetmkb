@@ -1,0 +1,24 @@
+# Post 108 · do 7 jan 2027 17:00
+nr: 108
+datum: "2027-01-07"
+tijd: "17:00"
+onderwerp: "Een eerlijk tarief voor beide kanten"
+linkedin: |
+  Een eerlijk tarief is een tarief waar allebei de partijen iets aan hebben. Zonder strijkstok kan dat eindelijk.
+
+  Een rekenvoorbeeld. Via een tussenpartij betaalt een opdrachtgever €90 per uur en ontvangt de zzp'er €72. Rechtstreeks spreken ze samen €80 af. De opdrachtgever betaalt €10 per uur minder, de zzp'er verdient €8 per uur meer.
+
+  Niemand levert in. Het geld dat eerst in het midden bleef hangen, gaat nu naar de mensen die samenwerken.
+
+  Bij zzpinhetmkb maken opdrachtgever en zzp'er die afspraak samen. Wij bemoeien ons niet met het tarief en we verdienen er niet aan.
+
+  Bekijk onze website.
+sjabloon: vergelijking
+thema: navy
+labels: [transparant, inhuur, zelfstandigen]
+kop: Een eerlijk tarief *voor beide kanten*
+watkop: ''
+kolommen: [Via een bureau, Rechtstreeks]
+rijen:
+- {wat: Jij betaalt, a: €90 per uur, b: €80 per uur}
+- {wat: Zzp'er krijgt, a: €72 per uur, b: €80 per uur}

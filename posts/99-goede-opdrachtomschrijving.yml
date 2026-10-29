@@ -1,0 +1,26 @@
+# Post 99 · di 1 dec 2026 08:00
+nr: 99
+datum: "2026-12-01"
+tijd: "08:00"
+onderwerp: "Een goede opdrachtomschrijving is het halve werk"
+linkedin: |
+  De beste bescherming tegen schijnzelfstandigheid kost niets. Het is een goede opdrachtomschrijving.
+
+  Schrijf op wat er af moet zijn, niet hoeveel uur iemand komt. "Nieuwe voorraadmodule opgeleverd en getest voor 1 maart" zegt veel meer dan "drie dagen per week ondersteuning".
+
+  Met een helder resultaat ligt het voor de hand dat de zelfstandige zelf bepaalt hoe hij daar komt. Dan stuur jij niet aan, en dan leen je ook niet in.
+
+  In zzpinhetmkb leg je die omschrijving per opdracht vast. Op dezelfde plek als de overeenkomst en de rest van het dossier.
+
+  Het halve werk is dan al gedaan.
+
+  Bekijk onze website.
+sjabloon: vergelijking
+thema: geel
+labels: [DBA, zelfstandigen, zekerheid]
+kop: Een goede opdracht is *het halve werk*
+watkop: ''
+kolommen: [Zwak, Sterk]
+rijen:
+- {wat: Omschrijving, a: 3 dagen per week, b: Module opgeleverd voor 1 maart}
+- {wat: Afgerekend op, a: Uren, b: Resultaat}

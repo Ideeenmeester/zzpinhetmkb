@@ -1,0 +1,23 @@
+# Post 104 · do 17 dec 2026 13:00
+nr: 104
+datum: "2026-12-17"
+tijd: "13:00"
+onderwerp: "Opdracht klaar? Geen overnamefee, geen beding"
+linkedin: |
+  De opdracht is klaar en je wilt verder met dezelfde zzp'er. Bij veel bureaus begint dan het rekenen.
+
+  Een overnamefee als je hem in dienst wilt nemen. Een concurrentiebeding als je hem rechtstreeks wilt inhuren. Een periode waarin het allebei niet mag.
+
+  Bij zzpinhetmkb bestaat dat allemaal niet. Je hebt de zzp'er niet via ons gekocht. Jullie werken gewoon samen, op basis van een overeenkomst tussen jullie tweeën.
+
+  Wil je verder? Dan ga je verder. Wil je hem een contract aanbieden? Dan doe je dat. Niemand die daar iets voor rekent.
+
+  Bekijk onze website.
+sjabloon: doorgestreept
+thema: navy
+labels: [zelfstandigen, transparant, regie]
+kop: Opdracht klaar? *Gewoon verder.*
+items:
+- {titel: Overnamefee, tekst: Niemand rekent je iets.}
+- {titel: Concurrentiebeding, tekst: Je mag rechtstreeks verder.}
+- {titel: Wachtperiode, tekst: Geen maanden pauze.}

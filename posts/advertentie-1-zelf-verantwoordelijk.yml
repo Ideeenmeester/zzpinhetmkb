@@ -1,0 +1,15 @@
+advertentie: true
+onderwerp: "Je bent zelf verantwoordelijk. Waarom betaal je dan een bureau?"
+linkedin: |
+  Je bent als opdrachtgever zelf verantwoordelijk voor je externe inzet. Met of zonder bureau.
+
+  Waarom zou je dan elk uur een opslag betalen aan een tussenpartij?
+
+  Met zzpinhetmkb werk je rechtstreeks met zelfstandigen. Jij houdt de regie, de zzp'er houdt zijn tarief. Geen strijkstok, gewoon goed geregeld.
+
+  Bekijk onze website.
+sjabloon: statement
+thema: blauw
+labels: [regie, rechtstreeks, inhuur]
+kop: "Jij bent verantwoordelijk.\nWaarom betaal je *een bureau*?"
+kopgrootte: {linkedin: 62, instagram: 100}

@@ -1,0 +1,25 @@
+# Post 95 · di 17 nov 2026 17:00
+nr: 95
+datum: "2026-11-17"
+tijd: "17:00"
+onderwerp: "Opdrachtgever, geen inlener"
+linkedin: |
+  Je kunt inlener zijn. Of opdrachtgever. Dat verschil bepaalt hoeveel regels er op je bord liggen.
+
+  Een inlener laat mensen onder zijn leiding en toezicht werken die door een andere partij ter beschikking worden gesteld. Daar hoort de Wtta bij, met toelating, register en controles.
+
+  Een opdrachtgever geeft een zelfstandige een opdracht. De zelfstandige bepaalt hoe hij het doet, gebruikt zijn eigen middelen en draagt zijn eigen risico. Dan leen je niet in.
+
+  Met zzpinhetmkb ben je opdrachtgever. Je legt per opdracht vast waarom het zelfstandig werk is, zodat je het ook kunt laten zien als iemand ernaar vraagt.
+
+  Bekijk onze website.
+sjabloon: vergelijking
+thema: groen
+labels: [inlenen, zelfstandigen, DBA]
+kop: Opdrachtgever, *geen inlener*
+watkop: ''
+kolommen: [Inlener, Opdrachtgever]
+rijen:
+- {wat: 'Wie stuurt aan?', a: Jij, b: De zzp'er zelf}
+- {wat: Wtta-toelating, a: Nodig bij je uitlener, b: Niet van toepassing}
+- {wat: Afspraak, a: Uren, b: Resultaat}

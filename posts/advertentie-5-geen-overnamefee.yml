@@ -1,0 +1,18 @@
+advertentie: true
+onderwerp: "Geen overnamefee. Geen concurrentiebeding. Geen marge."
+linkedin: |
+  Een goede zzp'er langer houden? Of in dienst nemen? Bij een bureau kost dat vaak extra.
+
+  Bij zzpinhetmkb niet. Geen overnamefee, geen concurrentiebeding en geen marge op het tarief. De relatie met de zelfstandige is van jou.
+
+  Rechtstreeks, met respect voor beide kanten.
+
+  Bekijk onze website.
+sjabloon: doorgestreept
+thema: blauw
+labels: [rechtstreeks, flexibele schil, transparant]
+kop: "Wat je bij ons *nooit* betaalt"
+items:
+  - {titel: "Overnamefee", tekst: "Houd je zzp'er of neem hem in dienst."}
+  - {titel: "Concurrentiebeding", tekst: "De relatie is van jou."}
+  - {titel: "Marge", tekst: "Wat je afspreekt, is wat je betaalt."}

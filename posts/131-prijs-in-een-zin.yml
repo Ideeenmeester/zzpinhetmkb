@@ -1,0 +1,22 @@
+# Post 131 · di 30 mrt 2027 14:00
+nr: 131
+datum: "2027-03-30"
+tijd: "14:00"
+onderwerp: "De prijs in één zin"
+linkedin: |
+  Wat kost zzpinhetmkb? €9,99 per maand voor je bedrijf, plus €4,95 per maand voor elke overeenkomst die loopt.
+
+  Dat is de hele prijs. Geen percentage op de gewerkte uren. Geen marge op het tarief van de zzp'er. Geen overnamefee als je iemand in dienst neemt. De zelfstandige betaalt niets.
+
+  Werk je met veel overeenkomsten, dan is een staffel mogelijk. Wil je meer ondersteuning, van helpdesk tot vaste contactpersoon, dan maken we een voorstel op maat.
+
+  Waarom zo eenvoudig? Omdat een prijs die je in één zin kunt uitleggen, ook een prijs is waar niets achter zit.
+
+  Bekijk onze website.
+sjabloon: "groot-getal"
+thema: "navy"
+vorm: "cirkel"
+labels: ["transparant", "compleet", "inhuur"]
+kicker: "Per maand, per bedrijf"
+getal: "{{maand}}"
+kop: "plus {{overeenkomst}} per *lopende overeenkomst.*"

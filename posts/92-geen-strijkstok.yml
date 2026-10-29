@@ -1,0 +1,25 @@
+# Post 92 · do 5 nov 2026 14:00
+nr: 92
+datum: "2026-11-05"
+tijd: "14:00"
+onderwerp: "Geen strijkstok: wat de zzp'er vraagt, betaal jij"
+linkedin: |
+  Wat de zzp'er vraagt, is wat jij betaalt. Geen euro meer.
+
+  Bij inhuur via een tussenpartij blijft er op elk uur iets hangen. Soms 15 procent, soms meer. De zzp'er krijgt minder dan jij betaalt, en geen van beiden ziet precies waar het verschil blijft.
+
+  Bij zzpinhetmkb spreken opdrachtgever en zzp'er samen het tarief af. Wij zitten daar niet tussen. Er gaat geen percentage van de uren af en er komt geen marge bovenop.
+
+  Wij rekenen een vast bedrag voor de software: €9,99 per maand voor je bedrijf en €4,95 per lopende overeenkomst. Dat is alles.
+
+  Geen strijkstok. Gewoon eerlijk zaken doen.
+
+  Bekijk onze website.
+sjabloon: doorgestreept
+thema: blauw
+labels: [transparant, inhuur, zelfstandigen]
+kop: Wat de zzp'er vraagt, *betaal jij*.
+items:
+- {titel: Opslag per uur, tekst: Geen percentage op gewerkte uren.}
+- {titel: Marge op tarief, tekst: Het tarief is van de zzp'er.}
+- {titel: Strijkstok, tekst: Niemand ertussen die meeverdient.}

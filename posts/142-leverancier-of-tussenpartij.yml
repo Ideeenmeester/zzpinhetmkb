@@ -1,0 +1,22 @@
+# Post 142 · do 13 mei 2027 12:00
+nr: 142
+datum: "2027-05-13"
+tijd: "12:00"
+onderwerp: "Leverancier of tussenpartij?"
+linkedin: |
+  Er is een verschil tussen iemand die je iets levert en iemand die tussen jou en een ander in gaat staan.
+
+  Een leverancier verkoopt je een product of dienst tegen een vaste prijs. Je weet wat je krijgt en wat het kost. Een tussenpartij verdient aan de relatie tussen twee anderen, en heeft er dus belang bij hoe die relatie loopt.
+
+  Zzpinhetmkb is bewust een leverancier. Je koopt software en ondersteuning voor je externe inzet. Je betaalt een licentie per maand en een vast bedrag per lopende overeenkomst. Aan de samenwerking zelf, het tarief en de uren, verdienen we niets.
+
+  Dat maakt ons transparant, en het houdt de relatie waar hij hoort: tussen jou en de zzp'er.
+
+  Bekijk onze website.
+sjabloon: "vergelijking"
+thema: "groen"
+labels: ["transparant", "inhuur", "rechtstreeks"]
+kop: "Leverancier of *tussenpartij?*"
+watkop: ""
+kolommen: ["Tussenpartij", "Zzp in het mkb"]
+rijen: [{"wat": "Verdient aan", "a": "Elk gewerkt uur", "b": "Een vaste licentie"}, {"wat": "Overeenkomst", "a": "Via het bureau", "b": "Rechtstreeks"}, {"wat": "Tarief zzp'er", "a": "Bureau praat mee", "b": "Samen afgesproken"}]

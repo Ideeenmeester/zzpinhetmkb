@@ -1,0 +1,16 @@
+advertentie: true
+onderwerp: "Weet wie er werkt, wat het kost en of het klopt"
+linkedin: |
+  Hoeveel zzp'ers werken er nu voor jouw bedrijf? Wat kosten ze samen? En klopt het allemaal?
+
+  In zzpinhetmkb heb je per zzp'er één dossier: opdracht, overeenkomst, certificaten en verzekeringen. Verloopt er iets, dan krijg je vooraf een seintje.
+
+  Overzicht in plaats van zoeken.
+
+  Bekijk onze website.
+sjabloon: statement
+thema: geel
+vorm: cirkel
+labels: [compleet, zekerheid, extern]
+kop: "Weet wie er werkt, *wat het kost* en of het klopt."
+kopgrootte: {linkedin: 62, instagram: 96}

@@ -1,0 +1,22 @@
+# Post 139 · do 29 apr 2027 09:00
+nr: 139
+datum: "2027-04-29"
+tijd: "09:00"
+onderwerp: "Extra krachten in drukke tijden, goed geregeld"
+linkedin: |
+  De drukte komt elk jaar. Waarom begin je dan elk jaar opnieuw met zoeken?
+
+  Veel bedrijven vangen pieken op met extra krachten via een bureau. Dat werkt, maar na de piek verdwijnen de mensen weer uit beeld. Volgend jaar begint het verhaal opnieuw, met nieuwe gezichten en dezelfde opslag.
+
+  Rechtstreeks werken met zelfstandigen draait dat om. De vakmensen die het dit voorjaar goed deden, staan in je eigen overzicht. Hun dossier is compleet. Volgend jaar bel je ze gewoon weer.
+
+  Spreek per piek een afgebakende opdracht af en laat ze zelf het werk inrichten. Zo blijft het zelfstandig en bouw je ondertussen aan een vaste flexibele schil.
+
+  Bekijk onze website.
+sjabloon: "vergelijking"
+thema: "blauw"
+labels: ["extra krachten", "flexibele schil", "inhuur"]
+kop: "Extra krachten *in de piek*"
+watkop: ""
+kolommen: ["Via een bureau", "Rechtstreeks"]
+rijen: [{"wat": "Marge per uur", "a": "Ja", "b": "Nee"}, {"wat": "Na de piek", "a": "Uit beeld", "b": "In je eigen overzicht"}, {"wat": "Volgende piek", "a": "Opnieuw zoeken", "b": "Gewoon weer bellen"}]

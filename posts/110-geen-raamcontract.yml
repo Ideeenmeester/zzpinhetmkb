@@ -1,0 +1,23 @@
+# Post 110 · do 14 jan 2027 19:00
+nr: 110
+datum: "2027-01-14"
+tijd: "19:00"
+onderwerp: "Geen raamcontract, geen minimale afname"
+linkedin: |
+  Geen raamcontract. Geen minimale afname. Geen opzegtermijn van een jaar.
+
+  Wie met een bureau werkt, zit vaak vast aan afspraken die ooit voor de zekerheid zijn gemaakt. Een minimum aantal uren, een vaste leverancier, een contract dat stilzwijgend verlengt.
+
+  Bij zzpinhetmkb betaal je per maand. Een licentie voor je bedrijf en een klein bedrag per lopende overeenkomst. Loopt er deze maand niets, dan betaal je alleen de licentie.
+
+  Zo houd je je externe inzet flexibel, precies zoals externe inzet bedoeld is. Je flexibele schil groeit mee met je werk, niet met een contract.
+
+  Bekijk onze website.
+sjabloon: doorgestreept
+thema: groen
+labels: [flexibele schil, regie, transparant]
+kop: Flexibel, *zonder vast te zitten*
+items:
+- {titel: Raamcontract, tekst: Je betaalt per maand.}
+- {titel: Minimale afname, tekst: Alleen lopende overeenkomsten.}
+- {titel: Lange opzegtermijn, tekst: Geen jaar vastzitten.}

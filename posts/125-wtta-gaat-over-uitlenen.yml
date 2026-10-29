@@ -1,0 +1,21 @@
+# Post 125 · di 9 mrt 2027 08:00
+nr: 125
+datum: "2027-03-09"
+tijd: "08:00"
+onderwerp: "De Wtta is voor uitleners, jij werkt met ondernemers"
+linkedin: |
+  Er gaat veel angst rond over de Wtta. Voor een groot deel is die niet nodig.
+
+  De wet gaat over uitlenen: een partij die mensen aan jou ter beschikking stelt om onder jouw leiding en toezicht te werken. Daarvoor is een toelating nodig, en vanaf 2028 wordt dat gehandhaafd.
+
+  Werk je rechtstreeks met een zelfstandige die zelf bepaalt hoe hij zijn opdracht uitvoert? Dan leen je niet in. Er is geen uitlener, dus ook geen toelating om te controleren.
+
+  Dat vraagt wel dat de samenwerking echt zo is ingericht. Een duidelijke opdracht, een eigen werkwijze, een eigen tarief. Met zzpinhetmkb leg je dat per opdracht vast, zodat je het ook kunt laten zien.
+
+  Bekijk onze website.
+sjabloon: "statement"
+thema: "blauw"
+vorm: "ring"
+labels: ["Wtta", "zelfstandigen", "rechtstreeks"]
+kop: "De Wtta gaat over uitlenen.\n*Jij werkt met ondernemers.*"
+kopgrootte: {"linkedin": 58}

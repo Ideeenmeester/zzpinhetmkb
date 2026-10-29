@@ -1,0 +1,27 @@
+# Post 94 · do 12 nov 2026 16:00
+nr: 94
+datum: "2026-11-12"
+tijd: "16:00"
+onderwerp: "Rechtstreeks samenwerken in vier stappen"
+linkedin: |
+  Rechtstreeks werken met een zzp'er klinkt ingewikkelder dan het is. Het zijn vier stappen.
+
+  Eén: scan je externe inzet. In drie minuten zie je waar je staat.
+
+  Twee: omschrijf de opdracht. Wat moet er af, wanneer, en tegen welke prijs.
+
+  Drie: sluit de overeenkomst rechtstreeks met de zzp'er. Hij bepaalt zelf hoe hij het werk aanpakt.
+
+  Vier: houd het overzicht. KvK, certificaten, verzekeringen en de afspraken per opdracht staan in één dossier. Verloopt er iets, dan krijg je een seintje.
+
+  Dat is het. Geen bureau, geen raamcontract, geen tussenpersoon die meeverdient.
+
+  Bekijk onze website.
+sjabloon: tijdlijn
+labels: [rechtstreeks, compleet, zelfstandigen]
+kop: Rechtstreeks in *vier stappen*
+stappen:
+- {datum: '1', jaar: stap, titel: Scan je externe inzet, actief: true}
+- {datum: '2', jaar: stap, titel: Omschrijf de opdracht}
+- {datum: '3', jaar: stap, titel: Sluit de overeenkomst}
+- {datum: '4', jaar: stap, titel: Houd het overzicht}

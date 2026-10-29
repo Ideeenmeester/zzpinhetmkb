@@ -1,0 +1,23 @@
+# Post 119 · di 16 feb 2027 15:00
+nr: 119
+datum: "2027-02-16"
+tijd: "15:00"
+onderwerp: "Eén dossier per zzp'er"
+linkedin: |
+  Waar staat het verzekeringsbewijs van de zzp'er die vorige maand begon? Als je moet zoeken, ben je niet de enige.
+
+  KvK-uittreksels in de mail. Certificaten in een map op de server. Verklaringen bij de afdelingsmanager. En niemand die bijhoudt wanneer iets verloopt.
+
+  In zzpinhetmkb heeft elke zzp'er één dossier. Hij levert zijn gegevens zelf aan in zijn profiel. Jij ziet in één oogopslag of het klopt. Certificaten, diploma's, verzekeringen en verklaringen staan bij elkaar.
+
+  En voordat iets verloopt, krijg je een seintje. Geen verrassingen meer.
+
+  Bekijk onze website.
+sjabloon: vergelijking
+thema: blauw
+labels: [compleet, zelfstandigen, zekerheid]
+kop: Eén dossier *per zzp'er*
+kolommen: [Zelf doen, Met zzp in het mkb]
+rijen:
+- {wat: Certificaten, a: Verspreid over mailboxen, b: In één dossier}
+- {wat: Verloopdatums, a: Als je eraan denkt, b: Een seintje vooraf}
